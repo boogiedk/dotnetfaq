@@ -1,4 +1,5 @@
 # dotnetfaq
-
+База знаний по .Net и ИТ сфере.
 FAQ:  
-* [Язык программирования - это всего лишь инструмент](https://github.com/boogiedk/dotnetfaq/blob/master/articles/common/2020-29-08-language-is-a-tool.md)<br>
+* [Статьи](https://github.com/boogiedk/dotnetfaq/blob/master/articles/README.md)<br>
+* [Справочник](https://github.com/boogiedk/dotnetfaq/blob/master/handbook/README.md)<br>
